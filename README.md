@@ -55,7 +55,7 @@ Game finished — winner shown with underline. Press **SPACE** to replay.
 Watch a quick demo here:
 
 <video controls autoplay loop muted width="720">
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/assets/Pong-Screen.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/assets/Play-Screen.mp4" type="video/mp4">
 </video>
 
 ## ⚙️ Installation & Run
