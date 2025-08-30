@@ -54,7 +54,7 @@ Game finished — winner shown with underline. Press **SPACE** to replay.
 ## 🎥 Demo Video
 Watch a quick demo here:
 
-[![Pong Gameplay](assets/Play-Screen.png)](assets/Pong-Screen.mp4)
+[![Pong Gameplay](assets/Play-Screen.png)](assets/Play-Screen.mp4)
 
 ## ⚙️ Installation & Run
 
