@@ -28,7 +28,7 @@ This version includes clean visuals, a pause feature, serve mechanics, dynamic b
 ---
 
 ## 📸 Screenshots & Demo Video
-![Start Screen](assets/Start-Screen.png.png)
+![Start Screen](assets/Start-Screen.png)
 ![Serve Screen](assets/Serve-Screen.png)
 ![Play Screen](assets/Play-Screen.png)
 ![Pause Screen](assets/Pause-Screen.png)
@@ -39,7 +39,7 @@ This version includes clean visuals, a pause feature, serve mechanics, dynamic b
 ## 🎥 Demo Video
 Watch a quick demo here:
 
-[![Pong Gameplay](assets/Play-Screen.png)](assets/Play-Screen.mov)
+[▶️ Watch the demo video](assets/Play-Screen.mov)
 
 ## ⚙️ Installation & Run
 
