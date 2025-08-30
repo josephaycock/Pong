@@ -27,11 +27,26 @@ This version includes clean visuals, a pause feature, serve mechanics, dynamic b
 
 ---
 
-## 📸 Screenshots & Demo Video
+## 📸 Screenshots
+
+### Start Screen
+The clean intro screen with title, instructions, and controls.
 ![Start Screen](assets/Start-Screen.png)
+
+### Serve Screen
+Ball waiting to be served. Players can move paddles before pressing **SPACE**.
 ![Serve Screen](assets/Serve-Screen.png)
+
+### Play Screen
+Active gameplay with ball movement, deflections, and scoring.
 ![Play Screen](assets/Play-Screen.png)
+
+### Pause Screen
+Game paused with scores frozen. Press **P** to resume.
 ![Pause Screen](assets/Pause-Screen.png)
+
+### Game Over Screen
+Game finished — winner shown with underline. Press **SPACE** to replay.
 ![GameOver Screen](assets/GameOver-Screen.png)
 
 ---
@@ -39,7 +54,7 @@ This version includes clean visuals, a pause feature, serve mechanics, dynamic b
 ## 🎥 Demo Video
 Watch a quick demo here:
 
-[![Pong Gameplay](assets/Play-Screen.png)](assets/Pong-Demo.mp4)
+[![Pong Gameplay](assets/Play-Screen.png)](assets/Pong-Screen.mp4)
 
 ## ⚙️ Installation & Run
 
