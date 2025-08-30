@@ -39,7 +39,7 @@ This version includes clean visuals, a pause feature, serve mechanics, dynamic b
 ## 🎥 Demo Video
 Watch a quick demo here:
 
-[▶️ Watch the demo video](assets/Play-Screen.mov)
+[![Pong Gameplay](assets/Play-Screen.png)](assets/Pong-Demo.mp4)
 
 ## ⚙️ Installation & Run
 
