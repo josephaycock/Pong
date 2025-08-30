@@ -52,11 +52,9 @@ Game finished — winner shown with underline. Press **SPACE** to replay.
 ---
 
 ## 🎥 Demo Video
-Watch a quick demo here:
+Click the preview image below to download and watch the demo:
 
-<video controls autoplay loop muted width="720">
-  <source src="https://raw.githubusercontent.com/<USER>/<REPO>/<BRANCH>/assets/Play-Screen.mp4" type="video/mp4">
-</video>
+[![Pong Gameplay](assets/Play-Screen.png)](assets/Play-Screen.mp4)
 
 ## ⚙️ Installation & Run
 
